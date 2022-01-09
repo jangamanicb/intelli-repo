@@ -1,4 +1,6 @@
 This is my first git file.
 newline.
 change1 made by github user.
-change2 made by chandru.
+change2 made by both users chandru & github.
+
+
